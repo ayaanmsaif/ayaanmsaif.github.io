@@ -63,7 +63,7 @@
 #### Amazon Futures Virtual Work Experience 
 - Taught me the principles of Amazon AWS, informs me on future computer science careers, working at Amazon, etc.
 
-### Competitions 
+#### Competitions 
 - 1 of 5 selected to represent school in AUS MathsFest Olympiad
   
 - Selected to represent SES at EISSA and DASSA sporting events
